@@ -3,7 +3,7 @@
     "email": "me@prudnitskiy.pro",
     "github_username": "prudnitskiy",
     "github_repo": "cookiecutter-python",
-    "default_branch": "main",
+    "default_branch": "master",
     "project_name": "CookiecutterPython",
     "package_name": "demo",
     "project_short_description": "Sample project generated from Paul's Python Template.",
