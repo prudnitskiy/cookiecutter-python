@@ -1,0 +1,9 @@
+#python temp files
+**.pyc
+**.pyo
+__pycache__/
+#service folders
+.vscode
+.idea
+.terraform
+.venv

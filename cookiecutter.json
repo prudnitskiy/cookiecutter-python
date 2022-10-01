@@ -1,0 +1,14 @@
+{
+    "full_name": "Paul Rudnitskiy",
+    "email": "me@prudnitskiy.pro",
+    "github_username": "prudnitskiy",
+    "github_repo": "cookiecutter-python",
+    "default_branch": "main",
+    "project_name": "CookiecutterPython",
+    "package_name": "demo",
+    "project_short_description": "Sample project generated from Paul's Python Template.",
+    "python_major_version": 3,
+    "python_minor_version": 9,
+    "use_prometheus": "y",
+    "use_service": "y"
+}
